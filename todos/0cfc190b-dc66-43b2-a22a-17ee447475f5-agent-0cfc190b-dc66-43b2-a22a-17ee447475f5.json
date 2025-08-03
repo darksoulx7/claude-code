@@ -1,0 +1,80 @@
+[
+  {
+    "content": "Add freeze config integration to BulkAttendanceUpdate.jsx - import APIs and React Query hook",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Import getWorkingStatus helper and related utilities to BulkAttendanceUpdate.jsx",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement handleDayWorkHour function for real-time status calculation",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Replace static attendance codes with dynamic calculation logic",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Implement column locking functionality for freeze config dates",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Add visual indicators and disable editing for locked columns",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Update default date range logic to match requirements",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Enhance spreadsheet cell validation for locked columns",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Update backend muster spreadsheet API to return working_hours data",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Modify bulk attendance update API to check freeze dates",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Add proper error handling for freeze config failures",
+    "status": "completed",
+    "priority": "medium",
+    "id": "11"
+  },
+  {
+    "content": "Implement date picker restrictions based on freeze dates",
+    "status": "completed",
+    "priority": "medium",
+    "id": "12"
+  },
+  {
+    "content": "Test and validate the complete implementation",
+    "status": "completed",
+    "priority": "medium",
+    "id": "13"
+  }
+]

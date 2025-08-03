@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ip route:*)",
+      "Bash(systemctl status:*)",
+      "Bash(docker:*)",
+      "Bash(sudo sh:*)",
+      "Bash(sudo mkdir:*)",
+      "Bash(ping:*)",
+      "Bash(sudo dpkg:*)",
+      "Bash(nslookup:*)"
+    ],
+    "deny": []
+  }
+}

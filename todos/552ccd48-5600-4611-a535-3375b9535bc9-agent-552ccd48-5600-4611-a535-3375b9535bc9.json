@@ -1,0 +1,8 @@
+[
+  {
+    "content": "Restart NetworkManager to fix DNS",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "1"
+  }
+]

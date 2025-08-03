@@ -1,0 +1,28 @@
+# Sensitive files - DO NOT commit
+.credentials.json
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Temporary/cache files
+.update.lock
+*.tmp
+*.cache
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Optional: Uncomment if you don't want to track shell snapshots
+# shell-snapshots/
+
+# Optional: Uncomment if you don't want to track todos
+# todos/
+
+# Optional: Uncomment if you don't want to track statsig data
+# statsig/

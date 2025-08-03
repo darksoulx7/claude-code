@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Analyze existing database schema and understand current employee-branch relationships",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Design simplified database schema - only add home_branch flag to employee_branches table",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create migration scripts for existing employee data to assign home branches",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Implement backend API endpoints for master branch management",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Create scheduled transfer functionality for employees",
+    "status": "pending",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Update shift management to work with home branch assignments",
+    "status": "pending",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Modify employee management UI to include home branch selection",
+    "status": "pending",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Update payroll processing to consider home branch vs punch-in branch",
+    "status": "pending",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Implement branch-wise vs HO-wise payroll configuration",
+    "status": "pending",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "Update all reports to filter by home branch as default",
+    "status": "pending",
+    "priority": "medium",
+    "id": "10"
+  },
+  {
+    "content": "Add fingerprint capacity management (750 employees per branch limit)",
+    "status": "pending",
+    "priority": "low",
+    "id": "11"
+  }
+]

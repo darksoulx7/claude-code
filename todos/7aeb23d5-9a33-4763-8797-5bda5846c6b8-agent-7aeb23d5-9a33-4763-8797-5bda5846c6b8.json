@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Investigate SQS document upload bug - documents not displaying after refresh",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Check SQS consumer that processes s3_sqs_url messages",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Verify database updates are happening for document uploads",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Check if SQS queue is processing messages properly",
+    "status": "pending",
+    "priority": "medium",
+    "id": "4"
+  }
+]

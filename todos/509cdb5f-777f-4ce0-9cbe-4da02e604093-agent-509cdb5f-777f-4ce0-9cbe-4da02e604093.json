@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Remove the corrected query section",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Uncomment and restore the original query with LEFT JOIN fix",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Keep the shifts table join that was already added",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Update INNER JOIN to LEFT JOIN for employee_shift_assignments",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  }
+]

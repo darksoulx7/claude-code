@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Install Docker Desktop over existing Docker Engine",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Test Docker Desktop functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Verify WiFi still works after Docker Desktop",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  }
+]

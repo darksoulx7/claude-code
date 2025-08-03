@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Diagnose why isStylesReady is causing infinite loading",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Simplify the loading logic to just basic data loading + spreadsheet visibility",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Remove problematic style tracking that's causing the infinite loop",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  }
+]

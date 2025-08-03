@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Add window dimension detection functionality (useState, useEffect, detectSize function)",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add calculateColumnWidths function with responsive breakpoints",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update baseColumns to use dynamic widths and add wrap: true property",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add dynamic CSS injection for jss_content styles using useEffect",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Add spreadsheetRef and missing imports (NoDataFound, Spreadsheet, Worksheet)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Update initializeSpreadsheet to handle column locking for non-titled columns",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Replace SpreadsheetContainer with direct Spreadsheet/Worksheet components",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Update CSS class from ps-employeeConfigs to ps-employeeConfigs in wrapper div",
+    "status": "completed",
+    "priority": "low",
+    "id": "8"
+  },
+  {
+    "content": "Add windowDimension dependency to processApiDataForSpreadsheet useEffect",
+    "status": "completed",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "Update globalEventHandler to match PTLWFConfigs parameter structure",
+    "status": "completed",
+    "priority": "medium",
+    "id": "10"
+  }
+]

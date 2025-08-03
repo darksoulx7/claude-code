@@ -1,0 +1,74 @@
+[
+  {
+    "content": "Read and analyze the complete assign_employee_shifts_new function to understand current implementation",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create deactivateExistingAssignments helper function for new table structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create insertNewAssignments helper function to insert 7-day records",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Extract and create createAuditLogs helper function from existing code",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Update main assign_employee_shifts_new function to use new helper functions",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Remove leave handling logic (handled separately in roster system)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Update field names (is_journal_entry_sync → is_je_synced)",
+    "status": "completed",
+    "priority": "low",
+    "id": "7"
+  },
+  {
+    "content": "Test the updated function to ensure 7-day assignments work correctly",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Add week-off deactivation to deactivateExistingAssignments function",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Update is_je_synced logic for today/tomorrow vs other changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Add getTodayTomorrowDayNumbersUTC function matching roster management pattern",
+    "status": "completed",
+    "priority": "high",
+    "id": "11"
+  },
+  {
+    "content": "Verify Sunday=1, Saturday=7 day numbering consistency",
+    "status": "completed",
+    "priority": "high",
+    "id": "12"
+  }
+]

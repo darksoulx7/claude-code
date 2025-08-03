@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Add new state variables for tracking style initialization (isStylesReady, isInitializing)",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Modify dynamic CSS useEffect to set isStylesReady after styles are applied",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update loading condition to include both data loading AND style readiness",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Adjust spreadsheet visibility timing and reset isStylesReady on data changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Test the fix to ensure smooth loading transition",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

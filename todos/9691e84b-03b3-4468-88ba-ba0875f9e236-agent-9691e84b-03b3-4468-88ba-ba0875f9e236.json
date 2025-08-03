@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Analyze data structure mismatch between frontend and backend",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix React infinite loop warning in useEffect",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update frontend logic to handle occasional_weekoff_days from backend",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update WeekoffPopup component to work with weekoff days concept",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Update UI labels and indicators to reflect weekoff days concept",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Test the complete functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

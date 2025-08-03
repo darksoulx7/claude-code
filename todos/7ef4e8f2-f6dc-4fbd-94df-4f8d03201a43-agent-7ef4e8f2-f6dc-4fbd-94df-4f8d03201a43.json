@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Revert getMusterReportsOptimised changes to avoid SQL errors",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Enhance getMusterSpreadSheetReports with working hours optimization",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update frontend to use getMusterSpreadSheetReports instead of optimised=1",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Fix locked column styling - change background from gray to red",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Fix data reloading issue after API save - ensure React Query invalidation",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Fix je_ids payload issue - debug je_ids extraction in preparePayloadData",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Fix infinite skeleton loading issue",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Test je_ids extraction and payload generation",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Analyze the duplicate key constraint issue in employee_bonus_incentive and employee_statutory_compliance tables",
+    "status": "completed",
+    "priority": "high",
+    "id": "analyze_duplicate_key_issue"
+  },
+  {
+    "content": "Identify where INSERT queries are used in save_employee_configs for both bonus_and_incentives and pt_and_lwf configs",
+    "status": "completed",
+    "priority": "high",
+    "id": "identify_insertion_points"
+  },
+  {
+    "content": "Replace INSERT with INSERT ... ON DUPLICATE KEY UPDATE for employee_bonus_incentive table",
+    "status": "completed",
+    "priority": "high",
+    "id": "implement_upsert_bonus_incentive"
+  },
+  {
+    "content": "Replace INSERT with INSERT ... ON DUPLICATE KEY UPDATE for employee_statutory_compliance table",
+    "status": "completed",
+    "priority": "high",
+    "id": "implement_upsert_statutory_compliance"
+  },
+  {
+    "content": "Verify that duplicate key scenarios are handled properly without errors",
+    "status": "completed",
+    "priority": "medium",
+    "id": "test_duplicate_handling"
+  }
+]

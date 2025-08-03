@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Fix document upload bug - documents not displaying after refresh",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add missing database update in handleUploadDocument function",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update handleUploadDocument to save filename to employee table",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  }
+]
