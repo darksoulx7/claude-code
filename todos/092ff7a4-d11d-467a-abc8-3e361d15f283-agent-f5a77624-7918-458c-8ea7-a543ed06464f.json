@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Analyze current roster data fetching implementation in generateRosterData function",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Examine frontend conflict detection logic in checkAdjacentDayConflicts function",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Modify backend generateRosterData to fetch one day before from_date and one day after to_date",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update backend response to include adjacent dates in employee rows while keeping display headers unchanged",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Ensure frontend handles expanded data correctly without UI changes to date range display",
+    "status": "pending",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Update all specific date assignment queries to use expanded date range for conflict detection",
+    "status": "pending",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Test conflict detection works correctly with adjacent dates available",
+    "status": "pending",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Ensure backward compatibility and no breaking changes to existing functionality",
+    "status": "pending",
+    "priority": "high",
+    "id": "8"
+  }
+]

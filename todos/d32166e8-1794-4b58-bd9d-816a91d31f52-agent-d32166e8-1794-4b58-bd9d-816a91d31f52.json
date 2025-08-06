@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Analyze current payroll function to identify all data sources and calculation logic",
+    "status": "completed",
+    "priority": "high",
+    "id": "analyze-current-payroll"
+  },
+  {
+    "content": "Create simple SQL queries for raw data extraction (employees, attendance, configs, etc.)",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-raw-data-queries"
+  },
+  {
+    "content": "Create AttendanceCalculator.js with exact SQL logic replication",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-attendance-calculator"
+  },
+  {
+    "content": "Create PenaltyCalculator.js replicating penalty calculation logic",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-penalty-calculator"
+  },
+  {
+    "content": "Create OvertimeCalculator.js with overtime calculation methods",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-overtime-calculator"
+  },
+  {
+    "content": "Create SalaryCalculator.js for gross wage and deduction calculations",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-salary-calculator"
+  },
+  {
+    "content": "Create StatutoryCalculator.js for PF/ESIC/PT calculations",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-statutory-calculator"
+  },
+  {
+    "content": "Create payrollOptimized() method using Promise.all and calculation modules",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-payroll-optimized-method"
+  },
+  {
+    "content": "Test new method against existing method to ensure identical responses",
+    "status": "pending",
+    "priority": "high",
+    "id": "test-validation"
+  },
+  {
+    "content": "Compare performance and MySQL load between old and new methods",
+    "status": "pending",
+    "priority": "medium",
+    "id": "performance-testing"
+  }
+]

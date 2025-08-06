@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Create todo.md file with detailed task breakdown",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Frontend - Add module switch UI to CommonShiftTime component",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Backend - Create mode switch API endpoint with is_je_synced logic",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Frontend - Update shift assignment routing based on module mode",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create database migration query",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Update frontend session management after mode switch",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Testing and validation of all functionality",
+    "status": "completed",
+    "id": "7"
+  }
+]
