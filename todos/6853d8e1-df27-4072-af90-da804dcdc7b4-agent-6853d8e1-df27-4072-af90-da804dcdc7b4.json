@@ -1,0 +1,67 @@
+[
+  {
+    "content": "Modify generateRosterData function to calculate expanded date range (from_date - 1 day to to_date + 1 day)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update specific assignments query to use expanded date range for data fetching",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Ensure employee row data includes adjacent dates while keeping original headers",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test conflict detection at range boundaries to verify the fix works",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Verify UI still displays only requested date range (no visual changes)",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create comprehensive test file for frontend conflict detection logic",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "FIXED: Backend expanded date range implementation completed and verified",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "ISSUE FOUND: Frontend only processes headers dates, ignoring expanded row data",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Fix frontend data processing to include all dates from row data (not just headers)",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "COMPLETE: Both backend and frontend fixes implemented and verified",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "NEW ISSUE: Extra columns appearing in UI due to expanded dates in rowData",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Separate spreadsheet data from conflict detection data to prevent extra columns",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "FINAL: Enhanced getRealTimeCellValues to check both spreadsheet and expanded data",
+    "status": "completed",
+    "id": "13"
+  }
+]
