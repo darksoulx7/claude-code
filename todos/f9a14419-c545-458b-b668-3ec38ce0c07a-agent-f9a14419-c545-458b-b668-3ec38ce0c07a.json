@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Analyze current shift mode switching implementation in CommonShiftTime.js",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Understand how LayoutMenuData.js determines menu visibility based on shift mode",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Identify the best approach to refresh layout menu after mode switch",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Implement solution to update layout menu visibility",
+    "status": "completed",
+    "id": "4"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Analyze project structure and dependencies",
+    "status": "in_progress",
+    "id": "1"
+  },
+  {
+    "content": "Check bundle size and build configuration",
+    "status": "pending",
+    "id": "2"
+  },
+  {
+    "content": "Review React components for performance issues",
+    "status": "pending",
+    "id": "3"
+  },
+  {
+    "content": "Analyze Redux state management patterns",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Check backend API performance patterns",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Review database queries and DAO patterns",
+    "status": "pending",
+    "id": "6"
+  },
+  {
+    "content": "Generate performance recommendations",
+    "status": "pending",
+    "id": "7"
+  }
+]

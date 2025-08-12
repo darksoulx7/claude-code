@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Revert MyCustomTable changes",
+    "status": "completed",
+    "id": "revert_table_change"
+  },
+  {
+    "content": "Set sortable: false for Name and Department columns",
+    "status": "completed",
+    "id": "find_alternative"
+  }
+]

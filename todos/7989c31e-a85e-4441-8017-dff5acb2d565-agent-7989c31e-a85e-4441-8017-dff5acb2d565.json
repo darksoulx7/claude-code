@@ -1,0 +1,52 @@
+[
+  {
+    "content": "Create weekoff query keys file",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Build React Query hooks for weekoff operations",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Convert WeekoffList.js from Redux to React Query",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add functional employee selection checkboxes",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Enhance WeekoffPopup.js with auto-selected days",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Add bulk API helper function",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Create minimal backend endpoint for bulk save",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Test all functionality works as before + new bulk features",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Extract bulk weekoff transaction and batch processing logic into separate function",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Extract activity logging logic into separate function",
+    "status": "completed",
+    "id": "10"
+  }
+]

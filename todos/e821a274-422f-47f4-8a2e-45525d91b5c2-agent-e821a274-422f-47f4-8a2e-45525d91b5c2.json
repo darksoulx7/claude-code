@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Research current system and available auto-startup options",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create startup script for the payroll project",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Configure auto-startup on system boot",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test the auto-startup functionality",
+    "status": "completed",
+    "id": "4"
+  }
+]

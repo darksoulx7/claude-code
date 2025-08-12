@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Create shift_module_dep.txt documentation file with all dependencies and required changes",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Analyze route consistency between menu visibility and AuthProtected.js redirects",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Review component logic alignment in ShiftAssignmentWrapper",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Check backend integration and organization configuration handling",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Document testing requirements and scenarios",
+    "status": "completed",
+    "id": "5"
+  }
+]
