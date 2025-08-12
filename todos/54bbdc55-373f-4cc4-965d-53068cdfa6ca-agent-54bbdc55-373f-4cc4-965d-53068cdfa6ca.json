@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check current branch and remote status",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Reset local branch to match remote origin/shift-json-color-add",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Clean up untracked files if needed",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Verify the reset was successful",
+    "status": "completed",
+    "id": "4"
+  }
+]
