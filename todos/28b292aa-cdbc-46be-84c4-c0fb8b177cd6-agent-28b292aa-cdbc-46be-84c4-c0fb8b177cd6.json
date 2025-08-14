@@ -1,12 +1,12 @@
 [
   {
     "content": "Phase 1: Extract constants and utility functions to separate files",
-    "status": "in_progress",
+    "status": "completed",
     "id": "refactor-phase-1"
   },
   {
     "content": "Phase 2: Create custom hooks for state management and operations",
-    "status": "pending",
+    "status": "in_progress",
     "id": "refactor-phase-2"
   },
   {
