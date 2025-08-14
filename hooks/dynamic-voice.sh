@@ -77,7 +77,7 @@ from datetime import datetime
 
 try:
     # ElevenLabs API call with dynamic message
-    api_key = 'sk_807ef61929ab27a0678fbc90856902353d84418c89787d3d'
+    api_key = '$ELEVAN_LABS_API_KEY'
     voice_id = '21m00Tcm4TlvDq8ikWAM'  # Rachel
     url = f'https://api.elevenlabs.io/v1/text-to-speech/{voice_id}'
     
