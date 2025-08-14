@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Read the full ShiftAssignment.jsx file to understand structure and identify constants/utilities",
+    "status": "completed",
+    "id": "read-shift-assignment"
+  },
+  {
+    "content": "Identify all constants that should be extracted to separate file",
+    "status": "completed",
+    "id": "identify-constants"
+  },
+  {
+    "content": "Identify all utility functions that should be extracted to separate file",
+    "status": "completed",
+    "id": "identify-utilities"
+  },
+  {
+    "content": "Create constants file for ShiftAssignment component",
+    "status": "completed",
+    "id": "create-constants-file"
+  },
+  {
+    "content": "Create utilities file for ShiftAssignment component",
+    "status": "completed",
+    "id": "create-utilities-file"
+  },
+  {
+    "content": "Extract constants to the new constants file",
+    "status": "completed",
+    "id": "extract-constants"
+  },
+  {
+    "content": "Extract utility functions to the new utilities file",
+    "status": "completed",
+    "id": "extract-utilities"
+  },
+  {
+    "content": "Update ShiftAssignment.jsx to import from the new files",
+    "status": "completed",
+    "id": "update-imports"
+  },
+  {
+    "content": "Verify no behavioral changes occurred after refactoring",
+    "status": "completed",
+    "id": "verify-functionality"
+  }
+]
