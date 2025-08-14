@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Create utils/shiftModeNotifier.js utility for event-based communication",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update LayoutMenuData.js to listen for shift mode change events",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Replace hard refresh in CommonShiftTime.js with event dispatch",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test the implementation to ensure no functionality is broken",
+    "status": "completed",
+    "id": "4"
+  }
+]

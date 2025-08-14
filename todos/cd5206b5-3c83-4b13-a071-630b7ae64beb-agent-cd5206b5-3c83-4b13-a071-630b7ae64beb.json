@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Fix the SQL query structure to put color condition in SET clause",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update the values array order to match the corrected query",
+    "status": "completed",
+    "id": "2"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Remove forced color logic from update_shift_new",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Allow users to set any color for any shift type",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Simplify add_shift_new to use user-provided color",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Update API response to use actual user-provided color",
+    "status": "completed",
+    "id": "4"
+  }
+]

@@ -9,5 +9,18 @@
   "statusLine": {
     "type": "command",
     "command": "bash ~/.claude/statusline-script.sh"
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Task",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/harshank/.claude/hooks/dynamic-voice.sh"
+          }
+        ]
+      }
+    ]
   }
 }

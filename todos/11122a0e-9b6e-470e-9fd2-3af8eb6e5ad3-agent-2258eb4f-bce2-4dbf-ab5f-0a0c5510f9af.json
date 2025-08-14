@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Create a simple hook debug utility that can capture and log hook parameters in JSON format",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add the utility to existing custom hooks to demonstrate functionality",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test the debug functionality by checking console logs",
+    "status": "in_progress",
+    "id": "3"
+  }
+]

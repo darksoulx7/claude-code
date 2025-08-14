@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Add popup confirmation for switching from simple to advanced mode in CommonShiftTime.js",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Show shift-assignment menu in simple mode by updating LayoutMenuData.js",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Add 'WeekOff' word in bulk weekoff update title in WeekoffPopup.js",
+    "status": "completed",
+    "id": "3"
+  }
+]

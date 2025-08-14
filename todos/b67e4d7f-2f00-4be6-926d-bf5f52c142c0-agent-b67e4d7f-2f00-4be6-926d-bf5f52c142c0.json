@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Remove debugging files created during troubleshooting",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Make voice message dynamic based on actual agent type",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Make agent name dynamic in voice announcements",
+    "status": "completed",
+    "id": "3"
+  }
+]
