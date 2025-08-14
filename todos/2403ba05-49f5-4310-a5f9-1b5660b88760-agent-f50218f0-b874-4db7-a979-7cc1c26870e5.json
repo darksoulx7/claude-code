@@ -1,0 +1,52 @@
+[
+  {
+    "content": "Analyze git history and diff between shift-json-color-add branch and master",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Examine all modified/added files in detail",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Review functionality and correctness",
+    "status": "in_progress",
+    "id": "3"
+  },
+  {
+    "content": "Analyze security vulnerabilities",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Assess performance implications",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Evaluate code quality and maintainability",
+    "status": "pending",
+    "id": "6"
+  },
+  {
+    "content": "Review architecture and design patterns",
+    "status": "pending",
+    "id": "7"
+  },
+  {
+    "content": "Check error handling and edge cases",
+    "status": "pending",
+    "id": "8"
+  },
+  {
+    "content": "Assess testing considerations",
+    "status": "pending",
+    "id": "9"
+  },
+  {
+    "content": "Compile comprehensive review report with findings and recommendations",
+    "status": "pending",
+    "id": "10"
+  }
+]
