@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Create custom Claude Code command for payroll project",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Configure command to open 3 terminal tabs with proper navigation",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Set up frontend tab: /repos/payroll with npm start",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Set up backend tab: /repos/payroll/backend with npm run local",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Set up claude tab: /repos/payroll with claude command",
+    "status": "completed",
+    "id": "5"
+  }
+]

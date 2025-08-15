@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Create custom Claude Code command for payroll startup",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Test the custom command",
+    "status": "in_progress",
+    "id": "2"
+  }
+]

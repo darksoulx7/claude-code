@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Create simple webhook-based chat workflow",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add basic OpenAI integration",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Add simple download functionality",
+    "status": "completed",
+    "id": "3"
+  }
+]

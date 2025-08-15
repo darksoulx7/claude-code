@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Create HTML structure for Netflix-style movies page",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add CSS styling for Netflix-like design",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Implement JavaScript for interactive features",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add dummy movie data and placeholder images",
+    "status": "completed",
+    "id": "4"
+  }
+]

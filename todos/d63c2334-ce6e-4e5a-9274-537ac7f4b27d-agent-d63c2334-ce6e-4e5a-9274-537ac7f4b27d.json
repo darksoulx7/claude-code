@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Check internet connection with ping",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Check DNS resolution for Cloudflare R2 domain",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Stop Ollama service",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Start Ollama service",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Clear Ollama cache and retry pull",
+    "status": "in_progress",
+    "id": "5"
+  },
+  {
+    "content": "Configure alternative DNS if needed",
+    "status": "completed",
+    "id": "6"
+  }
+]

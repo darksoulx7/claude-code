@@ -17,6 +17,8 @@ Thumbs.db
 # IDE specific files
 .vscode/
 .idea/
+.env
+.env.local
 
 # Optional: Uncomment if you don't want to track shell snapshots
 # shell-snapshots/
