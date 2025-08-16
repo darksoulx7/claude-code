@@ -10,7 +10,8 @@
       "Bash(sudo dpkg:*)",
       "Bash(nslookup:*)",
       "Bash(pkill:*)",
-      "Bash(systemctl:*)"
+      "Bash(systemctl:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": []
   }

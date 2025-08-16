@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Set up the project structure (HTML, CSS, JS files)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create the game canvas",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Implement the paddle",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Implement the ball",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Implement the bricks",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Implement game logic (scoring, lives, win/lose)",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Add neon styling and modern animations",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Make the game responsive",
+    "status": "completed",
+    "id": "8"
+  }
+]

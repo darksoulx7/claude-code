@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Update mongodb_container.md with correct interactive approach",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Move mongodb_container.md to mongodb folder",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Move postgres_container.md to postgres folder",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Update main CLAUDE.md with both database setups",
+    "status": "completed",
+    "id": "4"
+  }
+]

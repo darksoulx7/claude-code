@@ -3,13 +3,6 @@
   "permissions": {
     "defaultMode": "acceptEdits"
   },
-  "feedbackSurveyState": {
-    "lastShownTime": 1754051023349
-  },
-  "statusLine": {
-    "type": "command",
-    "command": "bash ~/.claude/statusline-script.sh"
-  },
   "hooks": {
     "PostToolUse": [
       {
@@ -22,5 +15,12 @@
         ]
       }
     ]
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "bash ~/.claude/statusline-script.sh"
+  },
+  "feedbackSurveyState": {
+    "lastShownTime": 1754051023349
   }
 }
